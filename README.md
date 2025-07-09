@@ -11,7 +11,7 @@ Image Captioning is a smart tool that generate a caption based on the image sent
 ## 🔥 Features
 - Upload an image
 - Automatically generate a caption
-- Powered by HuggingFace Transfromers, Gradio and Python
+
 
 ## 📦 Tech Stack
 - Python, Gradio
