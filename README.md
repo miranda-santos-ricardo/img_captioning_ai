@@ -23,4 +23,4 @@ Image Captioning is a smart tool that generate a caption based on the image sent
 git clone https://github.com/miranda-santos-ricardo/img_captioning_ai.git
 cd img_captioning_ai
 pip install -r requirements.txt 
-py or python or python3 (depends on your installatin) image_captioning_app.py
+py or python or python3 (depends on your installation) image_captioning_app.py
