@@ -1,3 +1,4 @@
+""" first experiment """
 import requests
 from PIL import Image
 from transformers import AutoProcessor,  BlipForConditionalGeneration
@@ -5,7 +6,7 @@ from transformers import AutoProcessor,  BlipForConditionalGeneration
 processor = AutoProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
 model     = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
 
-img_path = 'alabai.jpg'
+img_path = 'image.jpg'
 image = Image.open(img_path).convert('RGB')
 
 text = "the image of"
