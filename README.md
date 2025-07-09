@@ -4,7 +4,7 @@ Image Captioning is a smart tool that generate a caption based on the image sent
 
 ## Architecture
 
-<img width="412" alt="image" src="https://github.com/user-attachments/assets/d8101e6e-3098-474b-a2b5-1cee1d7699b4" />
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/d8101e6e-3098-474b-a2b5-1cee1d7699b4" />
 
 
 
